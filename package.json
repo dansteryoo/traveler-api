@@ -1,0 +1,12 @@
+{
+  "name": "traveler-trip-info-3",
+  "version": "1.0.0",
+  "description": "There are 3 sets of data that need to be merged in order to display a summary of the travelers on a **trip** and their flight information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC", 
+  "type": "module"
+}
